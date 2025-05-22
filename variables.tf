@@ -4,7 +4,7 @@ variable "region" {
 
 variable "ami" {
   description = "Amazon Machine Image ID"
-  default     = "ami-075686beab831bb7f" 
+  default     = "ami-075686beab831bb7f"
 }
 
 variable "instance_type" {
